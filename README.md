@@ -1,3 +1,9 @@
+# Internship Blocks by Gaurav Gupta
+### This app was created for an internship task of The Product Company.
+### It is deployed at https://gaurav-internship-blocks.netlify.app/
+
+### This is a very simple react app that uses only two hooks to change the position of the small box in between, and also disables the respective buttons when the box touches any boundary
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
